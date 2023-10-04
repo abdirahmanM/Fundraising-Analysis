@@ -7,9 +7,9 @@ see what the funds are and how it works
 In this project I used shapes and pivot tables to determine outcome
 
 ### Analysis of Outcomes Based on Launch Date
-![outcome by launch date](resource/outcomes_ID.png)
+![outcome by launch date](resources/outcomes_ID.png)
 ### Analysis of Outcomes Based on Goals
-![outcome by goals](resource/outcomes_goal.png)
+![outcome by goals](resources/outcomes_goal.png)
 ### Challenges and Difficulties Encountered
 It was hard getting the correct pivot table set right
 ## Results
