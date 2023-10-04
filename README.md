@@ -13,7 +13,7 @@ In this project I used shapes and pivot tables to determine outcome
 ### Challenges and Difficulties Encountered
 It was hard getting the correct pivot table set right
 ## Results
-
+The results of this project was a dashboard that contained information that used to see funds raised by a fundraising campaign and even though it was hard to create it in the beginging I now know how to do it and I can make a better one in the future.
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 - What can you conclude about the Outcomes based on Goals?
