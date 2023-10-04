@@ -3,7 +3,7 @@
 ![outcome by launch date](resources/Dashboard.png)
 I made an interactive dashboard to see what the funds in a fundraising campaign were
 Below is all analysis I made
-![outcome by launch date](Kickstater_Challenge.xlsx)
+![outcome by launch date](resources/Kickstater_Challenge.xlsx)
 ### Purpose
 see what the funds are and how it works
 ## Analysis and Challenges
