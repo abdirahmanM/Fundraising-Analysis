@@ -24,4 +24,4 @@ The map aspect of it and how you can't add it to make it more detailed
 - What are some other possible tables and/or graphs that we could create?
  Below is the examples of the possible graphs you can create. the first graph shows the sales by country and the second graph shows the sales by category
 
-![outcome by launch date](resources/Sales_PC.png) ![outcome by launch date](resources/Sales_country.png)
+![outcome by launch date](resources/Sales_PC.png)![outcome by launch date](resources/Sales_country.png)
