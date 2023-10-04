@@ -3,14 +3,7 @@
 ![outcome by launch date](resources/Dashboard.png)
 I made an interactive dashboard to see what the funds in a fundraising campaign were
 Below is all analysis I made
-
 [project document](Kickstarter_Challenge.xlsx)
-Go to file
-t
-Latest commit
-abdirahmanM
-abdirahmanM
-Add files via upload)
 ### Purpose
 see what the funds are and how it works
 ## Analysis and Challenges
