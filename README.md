@@ -1,6 +1,6 @@
 # Fundraising-Analysis
 ## Overview of Project
-![outcome by launch date](.png)
+![outcome by launch date](Dashboard.png)
 I made an interactive dashboard to see what the funds in a fundraising campaign were
 ### Purpose
 see what the funds are and how it works
