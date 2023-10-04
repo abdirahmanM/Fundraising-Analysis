@@ -4,7 +4,7 @@
 I made an interactive dashboard to see what the funds in a fundraising campaign were
 Below is all analysis I made
 
-[project document](resources/Kickstater_Challenge.xlsx)
+[project document](Kickstater_Challenge.xlsx)
 ### Purpose
 see what the funds are and how it works
 ## Analysis and Challenges
